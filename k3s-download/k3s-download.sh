@@ -1,1 +1,2 @@
-curl -sfL https://get.k3s.io | sh -
+wget -O https://get.k3s.io script.sh
+./script.sh
